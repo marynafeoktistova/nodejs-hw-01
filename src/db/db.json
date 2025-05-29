@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "id": "ef70f96f-7aa8-4aa1-99cb-525d3a88e4f0",
+    "name": "Amos Reilly",
+    "phone": "(299) 842-3699",
+    "email": "Jan70@yahoo.com",
+    "job": "Internal Data Strategist"
+  },
+  {
+    "id": "95b815f7-5f00-48b7-9e11-ad309c4a9e58",
+    "name": "Dr. Brad Roberts",
+    "phone": "1-991-572-9332",
+    "email": "Gordon_Batz@hotmail.com",
+    "job": "Human Web Specialist"
+  },
+  {
+    "id": "54185e24-819d-4700-8664-907777614b55",
+    "name": "Lucy Crooks",
+    "phone": "1-262-916-9816",
+    "email": "Sammie37@gmail.com",
+    "job": "Human Identity Specialist"
+  },
+  {
+    "id": "c7e95a30-3608-43ba-814d-f9f22af55434",
+    "name": "Dwayne Fritsch",
+    "phone": "205.640.4700 x695",
+    "email": "Trace_Gottlieb99@hotmail.com",
+    "job": "Product Operations Assistant"
+  },
+  {
+    "id": "e6d5f887-851b-4e88-b565-93291182af58",
+    "name": "Jodi Miller",
+    "phone": "1-391-655-9212 x99259",
+    "email": "Jayne88@hotmail.com",
+    "job": "Central Factors Administrator"
+  },
+  {
+    "id": "9e520dd0-10ba-4f68-a2c4-5cf30ed2dc4a",
+    "name": "Maggie Hintz",
+    "phone": "695-383-6434 x56096",
+    "email": "Abagail36@hotmail.com",
+    "job": "Future Paradigm Manager"
+  }
+]
