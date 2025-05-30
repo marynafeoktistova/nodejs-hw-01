@@ -15,7 +15,7 @@ export const addOneContact = async () => {
 
     console.log('Один новий контакт успішно додано.');
   } catch (error) {
-    console.error('Помилка при додаванні контакту:', error.message);
+    console.error(error.message);
   }
 };
 
